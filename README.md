@@ -32,22 +32,22 @@ python3 Totem.py [-h] --mode MODE [--url URL] [--urls URLS] [--columns COLUMNS]
                 [--target TARGET] --output OUTPUT
 
   -h, --help         show the help message and exit
-  --mode MODE There are different modes: \n
+  --mode MODE There are different modes:  
   
 
-​                              \- single : to get all ads on a page
+​                              \- single : to get all ads on a page  
 
-​                             \- multi : to get the ads on different pages
+​                             \- multi : to get the ads on different pages  
 
-​                             \- search : to search a page
+​                             \- search : to search a page  
 
-  --url URL          The url of the target page (single mode)
-  --urls URLS        Csv file with the lists of the target urls (multi mode)
-  --columns COLUMNS  The name of the column with the urls (multi mode)
-  --target TARGET    Target name (search mode)
-  --output OUTPUT    Name of the csv output file ( single and search mode )
+  --url URL          The url of the target page (single mode)  
+  --urls URLS        Csv file with the lists of the target urls (multi mode)  
+  --columns COLUMNS  The name of the column with the urls (multi mode)  
+  --target TARGET    Target name (search mode)  
+  --output OUTPUT    Name of the csv output file ( single and search mode )  
 
-The output  is in the output folder, for the multi mode the name of the file is the name of the page + id of the page.
+The output  is in the output folder, for the multi mode the name of the file is the name of the page + id of the page.  
 
 # Usage of facebook_totem with python:
 
