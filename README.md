@@ -31,7 +31,7 @@ python3 setup.py install
 python3 Totem.py [-h] --mode MODE [--url URL] [--urls URLS] [--columns COLUMNS]
                 [--target TARGET] --output OUTPUT
 
-  -h, --help         show the help message and exit
+  -h, --help         show the help message and exit  
   --mode MODE There are different modes:  
   
 
