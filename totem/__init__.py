@@ -1,1 +1,0 @@
-from totem.core import *
