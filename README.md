@@ -8,7 +8,7 @@ Totem allows you to use the facebook api to get information about the ads of a p
 
 # Demo
 
-![](https://i.imgur.com/CKQno6u.gif)
+[Imgur](https://imgur.com/CKQno6u)
 
 ## ![hammer_and_wrench](https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png) Installation
 
