@@ -7,7 +7,7 @@ Totem allows you to use the facebook api to get information about the ads of a p
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 # Demo
-
+![HD Demo](https://github.com/megadose/gif-demo/raw/master/demo.mp4)
 ![](https://github.com/megadose/gif-demo/raw/master/demo.gif)
 
 ## ![hammer_and_wrench](https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png) Installation
