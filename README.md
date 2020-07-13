@@ -2,7 +2,7 @@
 
 ### Educational purposes only, if you have any suggestions, please do not hesitate to contact us.
 
-Totem allows you to use the facebook api to get information about the ads of a page without any api key.
+Totem allows you to retrieve information about ads of a facebook page , we can retrieve the number of people targeted, how much the ad cost and a lot of other information. 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
