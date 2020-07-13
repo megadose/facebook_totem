@@ -5,6 +5,7 @@
 Totem allows you to retrieve information about ads of a facebook page , we can retrieve the number of people targeted, how much the ad cost and a lot of other information. 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+## Project example : [Totem maltego](https://github.com/megadose/totem-maltego)
 
 # Demo
 ![HD Demo](https://github.com/megadose/gif-demo/raw/master/demo.mp4)
