@@ -1,6 +1,7 @@
 # Totem
+![PyPI](https://img.shields.io/pypi/v/facebook_totem) ![PyPI - Week](https://img.shields.io/pypi/dw/facebook_totem) ![PyPI - Downloads](https://static.pepy.tech/badge/facebook_totem) ![PyPI - License](https://img.shields.io/pypi/l/facebook_totem)
 #### For BTC Donations : 1FHDM49QfZX6pJmhjLE5tB2K6CaTLMZpXZ
-### Educational purposes only, if you have any suggestions, please do not hesitate to contact us.
+## Educational purposes only
 
 Totem allows you to retrieve information about ads of a facebook page , we can retrieve the number of people targeted, how much the ad cost and a lot of other information. 
 
